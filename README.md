@@ -8,3 +8,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goswamysourja&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
+## 📈 Contribution Graph
+
+[![Sourja's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=goswamysourja&theme=tokyo-night)](https://github.com/goswamysourja)
