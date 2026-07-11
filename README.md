@@ -138,7 +138,7 @@ Full Stack Web Developer • AI & ML Enthusiast • Backend Engineering
 
 </p>
 
-> **Note:** The GitHub Readme Stats service (`github-readme-stats.vercel.app`) has recently been unavailable, so I've intentionally omitted it. You can add it back later when the service is stable or host your own instance.
+
 
 ---
 
