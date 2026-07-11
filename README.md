@@ -1,68 +1,92 @@
 <h1 align="center">Hi 👋, I'm Sourja Goswamy</h1>
-<h3 align="center">Full Stack Web Developer • AI & ML Enthusiast • CSE Undergraduate</h3>
+
+<h3 align="center">
+Full Stack Web Developer • AI & ML Enthusiast • Backend Engineering
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;AI+%26+Machine+Learning+Enthusiast;Backend+Engineering+%7C+Cloud+%7C+System+Design;Always+Learning+Something+New+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Scalable+Applications;Backend+Engineering+%7C+Cloud+%7C+System+Design" />
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🎓 Computer Science Undergraduate from India
-- 💻 Passionate about building **scalable full-stack applications**
-- 🤖 AI & Machine Learning enthusiast with hands-on deep learning projects
-- 🚀 Currently building a **Production-Grade Multi-Tenant School ERP SaaS**
-- 🧠 Solved **200+ DSA Problems** in C++
-- 🌱 Currently learning **Cloud Computing, Docker, CI/CD, AWS & System Design**
-- 🎯 Looking for **Software Engineering Internship & New Graduate (2027)** opportunities
+- 💻 Full Stack Web Developer passionate about building scalable and production-ready software.
+- 🤖 AI & Machine Learning enthusiast with hands-on experience in medical image analysis.
+- 🏗️ Currently building a **Production-Grade Multi-Tenant School ERP SaaS**.
+- 🧠 Solved **200+ Data Structures & Algorithms** problems using C++.
+- 🌱 Exploring **Cloud Computing, Docker, CI/CD, AWS and System Design**.
+- 🎯 Seeking **Software Engineering Internship & New Graduate (2027)** opportunities.
 
 ---
 
 # 🚀 Featured Projects
 
-## 🏫 Multi-Tenant School ERP SaaS
+### 🏫 School ERP SaaS
+**Production-grade Multi-Tenant School Management Platform**
+
 **Tech Stack**
 
-`Next.js` `TypeScript` `Node.js` `PostgreSQL` `Prisma` `Material UI`
+`Next.js`
+`TypeScript`
+`Node.js`
+`PostgreSQL`
+`Prisma`
+`Material UI`
+
+**Highlights**
 
 - Multi-Tenant Architecture
 - Authentication & Authorization
 - RBAC
-- Dashboard
 - Student Management
 - Teacher Management
 - Attendance
-- Academic Management
+- Dashboard
+
+🔗 **Repository:** https://github.com/goswamysourja/school-erp.git
 
 ---
 
-## 🧠 PCOS Detection using Hybrid QNN + ResNet50
+### 🧠 PCOS Detection using Hybrid Quantum Neural Network
 
 **Tech Stack**
 
-`Python` `TensorFlow` `Pennylane` `ResNet50` `LIME`
+`Python`
+`PyTorch`
+`PennyLane`
+`ResNet50`
+`LIME`
+
+**Highlights**
 
 - Hybrid Quantum Neural Network
 - Explainable AI
-- Deep Learning
 - Medical Image Classification
+- Gradio Deployment
+
+🔗 **Repository:** https://github.com/goswamysourja/PCOS-Hybrid-QNN-ResNet50.git
 
 ---
 
-## 🧠 Brain Tumor Classification
+### 🧠 Brain Tumor MRI Classification
 
 **Tech Stack**
 
 `Python`
 `TensorFlow`
 `CNN`
+`OpenCV`
 `Gradio`
 
-- MRI Classification
-- CNN Model
-- Interactive Deployment
-- Image Processing
+**Highlights**
+
+- CNN-based MRI Classification
+- 91.8% Accuracy
+- Interactive Prediction Interface
+
+🔗 **Repository:** https://github.com/goswamysourja/Brain-Tumor-Classification-CNN.git
 
 ---
 
@@ -70,38 +94,38 @@
 
 ### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,java,c" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,sql"/>
 </p>
 
 ### Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,materialui" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind"/>
 </p>
 
 ### Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
 </p>
 
 ### Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,prisma" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,prisma"/>
 </p>
 
 ### AI / ML
 
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,cnn" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
 </p>
 
 ### Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode"/>
 </p>
 
 ---
@@ -109,18 +133,21 @@
 # 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=goswamysourja&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=goswamysourja&theme=tokyonight&hide_border=true"/>
+
 </p>
 
----
+> **Note:** The GitHub Readme Stats service (`github-readme-stats.vercel.app`) has recently been unavailable, so I've intentionally omitted it. You can add it back later when the service is stable or host your own instance.
 
+---
 
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=goswamysourja&theme=tokyo-night&hide_border=true"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=goswamysourja&theme=tokyo-night"/>
+
 </p>
 
 ---
@@ -133,13 +160,19 @@
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
+&nbsp;&nbsp;
+
 <a href="mailto:goswamysourja@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
+&nbsp;&nbsp;
+
 <a href="https://leetcode.com/u/Sourja_2005/">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="48"/>
+<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="48"/>
 </a>
+
+&nbsp;&nbsp;
 
 <a href="https://github.com/goswamysourja">
 <img src="https://skillicons.dev/icons?i=github"/>
@@ -150,13 +183,11 @@
 ---
 
 <p align="center">
-
-![](https://komarev.com/ghpvc/?username=goswamysourja&color=blueviolet&style=for-the-badge)
-
+<img src="https://komarev.com/ghpvc/?username=goswamysourja&label=Profile%20Views&style=for-the-badge&color=0E75B6"/>
 </p>
 
-<p align="center">
+---
 
-### ⭐ "Building scalable software, solving challenging problems, and continuously learning."
-
-</p>
+<h3 align="center">
+⭐ Building scalable software, solving challenging problems, and continuously learning.
+</h3>
