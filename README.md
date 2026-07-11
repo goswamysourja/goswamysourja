@@ -155,10 +155,26 @@ Full Stack Web Developer • AI & ML Enthusiast • Backend Engineering
 ## 📫 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/sourja-goswamy-dev">LinkedIn</a> •
-<a href="mailto:goswamysourja@gmail.com">Email</a> •
-<a href="https://github.com/goswamysourja">GitHub</a> •
-<a href="https://leetcode.com/u/Sourja_2005/">LeetCode</a>
+  <a href="https://linkedin.com/in/sourja-goswamy-dev">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="mailto:goswamysourja@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50" alt="Gmail"/>
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://github.com/goswamysourja">
+    <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://leetcode.com/u/Sourja_2005/">
+    <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png"
+         height="50"
+         alt="LeetCode"/>
+  </a>
 </p>
 
 ---
