@@ -169,12 +169,6 @@ Full Stack Web Developer • AI & ML Enthusiast • Backend Engineering
     <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub"/>
   </a>
   &nbsp;&nbsp;
-
-  <a href="https://leetcode.com/u/Sourja_2005/">
-    <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png"
-         height="50"
-         alt="LeetCode"/>
-  </a>
 </p>
 
 ---
